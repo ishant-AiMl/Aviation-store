@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1793447403023,
+      "tag": "0000_store_orders_returns_roles",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1793448093746,
+      "tag": "0001_lock_down_definer_functions",
+      "breakpoints": true
+    }
+  ]
+}
